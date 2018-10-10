@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FallingObjects(KuotM)", "FallingObjects(KuotM)\FallingObjects(KuotM).csproj", "{FFEBEBE9-5695-4116-8320-1D27E72E16FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEBEBE9-5695-4116-8320-1D27E72E16FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEBEBE9-5695-4116-8320-1D27E72E16FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEBEBE9-5695-4116-8320-1D27E72E16FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEBEBE9-5695-4116-8320-1D27E72E16FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60065E7A-3A9B-4C32-B7C4-5B830352685A}
+	EndGlobalSection
+EndGlobal

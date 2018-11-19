@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Assignments\Simplified21(KuotM)\Simplified21(KuotM)\bin\Debug\Simplified21(KuotM).exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Assignments\Simplified21(KuotM)\Simplified21(KuotM)\bin\Debug\Simplified21(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Assignments\Simplified21(KuotM)\Simplified21(KuotM)\bin\Debug\Simplified21(KuotM).pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Assignments\Simplified21(KuotM)\Simplified21(KuotM)\obj\Debug\Simplified21(KuotM).csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Assignments\Simplified21(KuotM)\Simplified21(KuotM)\obj\Debug\Simplified21_KuotM_.frmSimplified21.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Assignments\Simplified21(KuotM)\Simplified21(KuotM)\obj\Debug\Simplified21_KuotM_.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Assignments\Simplified21(KuotM)\Simplified21(KuotM)\obj\Debug\Simplified21(KuotM).csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Assignments\Simplified21(KuotM)\Simplified21(KuotM)\obj\Debug\Simplified21(KuotM).exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mariak, Kuot (s295215)\Assignments\Simplified21(KuotM)\Simplified21(KuotM)\obj\Debug\Simplified21(KuotM).pdb

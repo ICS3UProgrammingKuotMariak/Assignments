@@ -1,0 +1,10 @@
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\bin\Debug\PizzaOrder(KuotM).exe.config
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\bin\Debug\PizzaOrder(KuotM).exe
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\bin\Debug\PizzaOrder(KuotM).pdb
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\obj\Debug\PizzaOrder(KuotM).csprojAssemblyReference.cache
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\obj\Debug\PizzaOrder_KuotM_.frmPizzaOrder.resources
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\obj\Debug\PizzaOrder_KuotM_.Properties.Resources.resources
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\obj\Debug\PizzaOrder(KuotM).csproj.GenerateResource.cache
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\obj\Debug\PizzaOrder(KuotM).csproj.CoreCompileInputs.cache
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\obj\Debug\PizzaOrder(KuotM).exe
+G:\HomeStation\Documents\Assignments\PizzaOrder(KuotM)\PizzaOrder(KuotM)\obj\Debug\PizzaOrder(KuotM).pdb

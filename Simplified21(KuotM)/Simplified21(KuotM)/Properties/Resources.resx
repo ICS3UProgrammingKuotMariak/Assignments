@@ -121,7 +121,7 @@
   <data name="blackjack" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\blackjack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="blackjack(Upscaled)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\blackjack(Upscaled)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="BlackJack Table" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BlackJack Table.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

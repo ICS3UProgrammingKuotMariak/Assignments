@@ -22,6 +22,7 @@ namespace Simplified21_KuotM_
         int DealerCard3;
         int userScore;
         int dealerScore;
+        double Bet;
         System.IO.Stream Jazzy = Properties.Resources.Casino_music;
         System.IO.Stream CasinoNight = Properties.Resources.Casino_Night;
         System.Media.SoundPlayer music = new System.Media.SoundPlayer();
@@ -109,27 +110,33 @@ namespace Simplified21_KuotM_
             // This checks the score of the user and the dealer's and compares them to determine who wins
             if (user > 21)
             {
-                MessageBox.Show("You lose!");
+                MessageBox.Show("You lose $" + Bet + "!");
             }
             else if (dealer > 21)
             {
-                MessageBox.Show("You win!");
+                // This calculates how much the user wins with a 3:2 payout ratio (paid 3 dollars for every 2 dollars bet)
+                Bet = (Bet / 2) * 3;
+                MessageBox.Show("You win $" + Bet + "!");
             }
             else if (user <= dealer)
             {
-                MessageBox.Show("You lose");
+                MessageBox.Show("You lose $" + Bet + "!");
             }
             else if (user == 21)
             {
-                MessageBox.Show("You win!");
+                // This calculates how much the user wins by a 3:2 payout ratio (paid 3 dollars for every 2 dollars bet)
+                Bet = (Bet / 2) * 3;
+                MessageBox.Show("You win $" + Bet + "!");
             }
             else if (dealer == 21)
             {
-                MessageBox.Show("You lose");
+                MessageBox.Show("You lose $" + Bet + "!");
             }
             else
             {
-                MessageBox.Show("You win!");
+                // This calculates how much the user wins by a 3:2 payout ratio (paid 3 dollars for every 2 dollars bet)
+                Bet = (Bet / 2) * 3;
+                MessageBox.Show("You win $" + Bet + "!");
             }
         }
 
@@ -157,9 +164,9 @@ namespace Simplified21_KuotM_
         {
 
             // This declares the local variables
-            double Bet;
             double outdouble;
-           
+
+            
             // This checks if value entered into textbox is a number then converts it to a double
             if (Double.TryParse(txtBet.Text, out outdouble))
             {
@@ -291,8 +298,6 @@ namespace Simplified21_KuotM_
             // This calls the check winner procedure
             this.CheckWinner(userScore, dealerScore);
 
-
-
         }
 
         private void mniNewGame_Click(object sender, EventArgs e)
@@ -324,6 +329,7 @@ namespace Simplified21_KuotM_
         private void picMusic_Click(object sender, EventArgs e)
         {
             music.Stop();
+            
         }
     }
 }

@@ -89,6 +89,12 @@
     <None Include="Resources\blackjack%28Upscaled%291.png" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Casino_music.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Casino_Night.wav" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\BlackJack Table.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

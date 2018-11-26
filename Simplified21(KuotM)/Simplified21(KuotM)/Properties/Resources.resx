@@ -121,7 +121,19 @@
   <data name="blackjack" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\blackjack.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="BlackJack Table" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="BlackJack_Table" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BlackJack Table.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Casino_music" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Casino_music.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Casino_Night" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Casino_Night.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="mute" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mute.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="play" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

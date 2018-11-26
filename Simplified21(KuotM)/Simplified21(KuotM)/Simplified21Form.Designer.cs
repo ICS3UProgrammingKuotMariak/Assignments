@@ -116,8 +116,8 @@
             this.mniJazzy,
             this.mniCasinoNight});
             this.mniMusic.Name = "mniMusic";
-            this.mniMusic.Size = new System.Drawing.Size(48, 20);
-            this.mniMusic.Text = "Musc";
+            this.mniMusic.Size = new System.Drawing.Size(51, 20);
+            this.mniMusic.Text = "Music";
             // 
             // mniJazzy
             // 
